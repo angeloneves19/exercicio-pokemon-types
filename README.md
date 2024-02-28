@@ -1,6 +1,4 @@
-# Trabalhando com condicionais no Typescript
-
-```
+Trabalhando com condicionais no Typescript
 const pokemons = [
 {
   name: "pikachu",
@@ -11,16 +9,15 @@ const pokemons = [
   types: ["dragon", "ground"]
 },
 ]
-```
+
 
 Retorno:
-```
 {
   name: "pikachu",
   types: ["eletric"],
   weakness: ["ground"]
 }
-```
+
 
 O objetivo é que você consiga verificar as fraquezas de cada pokemon, por exemplo:
 A fraqueza de pikachu é tipo elétrico, logo sua fraqueza é ground e será listada essa fraqueza, outras também, caso tenham.
@@ -36,3 +33,5 @@ Lembrando que um pokemon pode ter mais de um tipo.
 
 Boa sorte!
 
+Documentation - Object Types
+How TypeScript describes the shapes of JavaScript objects.

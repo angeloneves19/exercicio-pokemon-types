@@ -1,0 +1,12 @@
+{
+  "pokemons": [
+        {
+          "name": "Pikachu",
+          "types": ["Eletric"]
+        },
+        {
+          "name": "Gabite",
+          "types": ["Dragon", "Ground"]
+        }
+        ]
+}
