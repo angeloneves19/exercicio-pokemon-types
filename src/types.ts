@@ -3,6 +3,3 @@ export type PokemonType = {
     types: string[];
     weakness?: string[];
 }
-
-
-//? opicional 

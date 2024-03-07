@@ -2,7 +2,7 @@
   "pokemons": [
         {
           "name": "Pikachu",
-          "types": ["Eletric"]
+          "types": ["Electric"]
         },
         {
           "name": "Gabite",
