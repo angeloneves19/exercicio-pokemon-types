@@ -1,12 +1,44 @@
 {
   "pokemons": [
-        {
-          "name": "Pikachu",
-          "types": ["Electric"]
-        },
-        {
-          "name": "Gabite",
-          "types": ["Dragon", "Ground"]
-        }
-        ]
+    {
+      "name": "Pikachu",
+      "types": ["Electric"]
+    },
+    {
+      "name": "Gabite",
+      "types": ["Dragon", "Ground"]
+    },
+    {
+      "name": "Raichu",
+      "types": ["Electric"]
+    },
+    {
+      "name": "Bulbasaur",
+      "types": ["Grass", "Poison"]
+    },
+    {
+      "name": "Charmander",
+      "types": ["Fire"]
+    },
+     {
+       "name": "Charizard",
+       "types": ["Fire", "Flying"]
+     },
+     {
+       "name": "Butterfree",
+       "types": ["Bug", "Flying"]
+     },
+     {
+       "name": "Gengar",
+       "types": ["Ghost", "Poison"]
+     },
+     {
+       "name": "Zorua",
+       "types": ["Dark"]
+     },
+     {
+       "name": "Mewtwo",
+       "types": ["Psychic"]
+     }
+  ]
 }
