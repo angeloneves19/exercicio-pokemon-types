@@ -33,5 +33,7 @@ Lembrando que um pokemon pode ter mais de um tipo.
 
 Boa sorte!
 
+
+
 Documentation - Object Types
 How TypeScript describes the shapes of JavaScript objects.

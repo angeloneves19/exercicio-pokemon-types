@@ -66,6 +66,10 @@
       {
         "type": "Fairy",
         "weaknesses": ["Poison", "Steel"]
+      },
+      {
+        "type": "Psychic",
+        "weaknesses": ["Bug", "Ghost", "Dark"]
       }
   ]
           

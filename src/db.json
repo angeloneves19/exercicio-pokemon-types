@@ -2,43 +2,53 @@
   "pokemons": [
     {
       "name": "Pikachu",
-      "types": ["Electric"]
+      "types": ["Electric"],
+      "image": "https://i.postimg.cc/bvdRkyCS/pikachuuuu.png"
     },
     {
       "name": "Gabite",
-      "types": ["Dragon", "Ground"]
+      "types": ["Dragon", "Ground"],
+      "image": "https://i.postimg.cc/SKFpckwx/imagem-2024-03-18-102823568.png"
     },
     {
       "name": "Raichu",
-      "types": ["Electric"]
+      "types": ["Electric"],
+       "image": "https://i.postimg.cc/26KfkSqk/raiochu.png"
     },
     {
       "name": "Bulbasaur",
-      "types": ["Grass", "Poison"]
+      "types": ["Grass", "Poison"],
+      "image": "https://i.postimg.cc/zvs1pNV7/bulbasaur.webp"
     },
     {
       "name": "Charmander",
-      "types": ["Fire"]
+      "types": ["Fire"],
+      "image": "https://i.postimg.cc/4NfMkmTc/Charmander.webp"
     },
      {
        "name": "Charizard",
-       "types": ["Fire", "Flying"]
+       "types": ["Fire", "Flying"],
+       "image": "https://i.postimg.cc/HsMJms4p/Charizard.png"
      },
      {
        "name": "Butterfree",
-       "types": ["Bug", "Flying"]
+       "types": ["Bug", "Flying"],
+       "image": "https://i.postimg.cc/d3TT5g26/Butterfreee.png"
      },
      {
        "name": "Gengar",
-       "types": ["Ghost", "Poison"]
+       "types": ["Ghost", "Poison"],
+       "image": "https://i.postimg.cc/y8xL78yr/Gengarr.png"
      },
      {
        "name": "Zorua",
-       "types": ["Dark"]
+       "types": ["Dark"],
+       "image": "https://i.postimg.cc/9Qzzb6c7/570.png"
      },
      {
        "name": "Mewtwo",
-       "types": ["Psychic"]
+       "types": ["Psychic"],
+       "image": "https://i.postimg.cc/FHhqjpZw/Mewtwo.png"
      }
   ]
 }
